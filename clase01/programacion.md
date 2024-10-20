@@ -18,13 +18,15 @@ Con esto queremos decir que, para programar, es necesario ser capaz de resolver 
 
 El **pensamiento algorítmico** es un componente para resaltar. Este hace referencia a una cierta forma de aproximarse a la resolución de problemas.
 
-El término **algoritmo** hace referencia a las instrucciones para resolver un determinado problema. 
+El término **algoritmo** hace referencia a las instrucciones para resolver un determinado problema.  
 
 Un ejemplo común de algoritmo son las instrucciones para freir un huevo, o las instrucciones que se encuentran en el envase de un Shampoo.
 
 ![Huevo Frito](https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2021/11/02/huevo-frito.jpeg)
 
 Pensamiento algorítmico hace referencia a la habilidad para **describir cómo se debe llegar a la solución de un problema en términos de una serie de instrucciones** que alguien más pueda repetir.
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/cDA3_5982h8)](https://youtu.be/cDA3_5982h8?si=Xmwa_V04HYXLnt4g)
 
 ## ¿Qué se requiere para programar?
 - Conocer al menos un lenguaje de programación para poder escribir las instrucciones para el computador.

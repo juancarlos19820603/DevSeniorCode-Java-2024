@@ -1,6 +1,6 @@
 # Aprendiendo a Programar en Java
 ## Unidad 1 - Fundamentos de Java
-### Clase 1
+### Clase 1 - Introducción a Java y configuración del entorno de desarrollo.
 - [Preparando el ambiente](preparando_ambiente.md)
   - Instalando JDK
   - Instalando Visual Studio Code (VSCode)
@@ -17,4 +17,4 @@
 - Ejemplos
   - [HolaMundo.java](ejemplos/HolaMundo.java)
   - [HolaQuien.java](ejemplos/HolaQuien.java)
-- [Ejercicios](ejercicios.md)
+- [Ejercicios de práctica](ejercicios.md)
