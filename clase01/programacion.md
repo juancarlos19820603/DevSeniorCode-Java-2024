@@ -57,3 +57,16 @@ Al igual que cualquier otra actividad basada en habilidades, programar requiere 
 Al igual que un pintor no podría pintar sus propias obras sin haber visto las de otros, o un escritor no podría escribir una novela sin haber leído las de muchos otros, para escribir programas es necesario poder leer programas escritos por otros. 
 
 Sin embargo, no se trata de hacer una lectura superficial, sino de hacer una lectura cuidadosa que nos permita identificar las características y objetivos de cada uno y nos permita confrontar nuestras propias dudas y vacíos en nuestro conocimiento.
+
+# Videos adicionales (Recomendados)
+## Por esto te cuesta programar
+[![](https://markdown-videos-api.jorgenkh.no/youtube/c3NRsitewTc)](https://youtu.be/c3NRsitewTc?si=lXzsR94-WEHCDQcK)
+
+## El problema de "Aprender" programación
+[![](https://markdown-videos-api.jorgenkh.no/youtube/d1XlxVm2sA0)](https://youtu.be/d1XlxVm2sA0?si=f1DqMOPcOuSv7vu2)
+
+## 5 Errores al Aprender a Programar
+[![](https://markdown-videos-api.jorgenkh.no/youtube/kgxWf1GFyVI)](https://youtu.be/kgxWf1GFyVI?si=M0oq1u3OJAMx-gbJ)
+
+## Lógica de programación
+[![Lógica de programación](https://i.ytimg.com/vi/S9y-LdvtWhM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDDi65P_m3NwsayjvNTUe4hDY-tEw)](https://www.youtube.com/watch?v=OyPJpud974E&list=PLeJNEiFH8nIBf9UxeJ1WvjdztOKKrdtOI)
