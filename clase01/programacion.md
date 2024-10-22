@@ -60,13 +60,13 @@ Sin embargo, no se trata de hacer una lectura superficial, sino de hacer una lec
 
 # Videos adicionales (Recomendados)
 ## Por esto te cuesta programar
-[![](https://markdown-videos-api.jorgenkh.no/youtube/c3NRsitewTc)](https://youtu.be/c3NRsitewTc?si=lXzsR94-WEHCDQcK)
+[![Por esto te cuesta programar](https://markdown-videos-api.jorgenkh.no/youtube/c3NRsitewTc)](https://youtu.be/c3NRsitewTc?si=lXzsR94-WEHCDQcK)
 
 ## El problema de "Aprender" programación
-[![](https://markdown-videos-api.jorgenkh.no/youtube/d1XlxVm2sA0)](https://youtu.be/d1XlxVm2sA0?si=f1DqMOPcOuSv7vu2)
+[![El problema de "Aprender" programación](https://markdown-videos-api.jorgenkh.no/youtube/d1XlxVm2sA0)](https://youtu.be/d1XlxVm2sA0?si=f1DqMOPcOuSv7vu2)
 
 ## 5 Errores al Aprender a Programar
-[![](https://markdown-videos-api.jorgenkh.no/youtube/kgxWf1GFyVI)](https://youtu.be/kgxWf1GFyVI?si=M0oq1u3OJAMx-gbJ)
+[![5 Errores al Aprender a Programar](https://markdown-videos-api.jorgenkh.no/youtube/kgxWf1GFyVI)](https://youtu.be/kgxWf1GFyVI?si=M0oq1u3OJAMx-gbJ)
 
 ## Lógica de programación
-[![Lógica de programación](https://i.ytimg.com/vi/S9y-LdvtWhM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDDi65P_m3NwsayjvNTUe4hDY-tEw)](https://www.youtube.com/watch?v=OyPJpud974E&list=PLeJNEiFH8nIBf9UxeJ1WvjdztOKKrdtOI)
+[![Lógica de programación](https://i.ytimg.com/vi/OyPJpud974E/maxresdefault.jpg)](https://www.youtube.com/watch?v=OyPJpud974E&list=PLeJNEiFH8nIBf9UxeJ1WvjdztOKKrdtOI)
