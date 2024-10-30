@@ -23,7 +23,7 @@ Escriba un archivo llamado `ImprimirCara` que imprima una cara usando caracteres
 ```
 
 ## Ejercicio 3
-Escriba un archivo llamado `ImprimirDiamante` que imprima una cara usando caracteres de texto.  
+Escriba un archivo llamado `ImprimirDiamante` que imprima un diamante usando caracteres de texto.  
 ```
    *
   ***

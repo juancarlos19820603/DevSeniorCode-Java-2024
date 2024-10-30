@@ -36,3 +36,11 @@
   - Clases y métodos importantes en Java
 - [Ejercicios de práctica](clase04/ejercicios.md)
 - [Retos Hackerrank](https://www.hackerrank.com/domains/java?filters%5Bskills%5D%5B%5D=Java%20%28Basic%29&filters%5Bskills%5D%5B%5D=Java%20%28Intermediate%29&filters%5Bsubdomains%5D%5B%5D=java-introduction&filters%5Bsubdomains%5D%5B%5D=java-strings&filters%5Bdifficulty%5D%5B%5D=hard&filters%5Bdifficulty%5D%5B%5D=easy)
+### [Clase 5](clase05) - Introducción a arrays y estructuras de datos básicas
+- [Conceptos del lenguaje](clase05/conceptos_lenguaje.ipynb)
+  - Estructuras de datos
+  - Arrays
+  - Clases Generics
+  - Java Collections Framework
+- [Ejercicios de práctica](clase05/ejercicios.md)
+- [Retos Hackerrank](https://www.hackerrank.com/domains/java?filters%5Bskills%5D%5B%5D=Java%20%28Basic%29&filters%5Bskills%5D%5B%5D=Java%20%28Intermediate%29&filters%5Bsubdomains%5D%5B%5D=java-data-structure&filters%5Bdifficulty%5D%5B%5D=easy)

@@ -119,9 +119,8 @@ Esta sucesión comienza con los números 0 y 1. El siguiente miembro se calcula 
 Crea un programa reciba un número (N) del usuario y muestre los primeros N números de sucesión.
 
 ## Ejercicio 20 - Tablero de Ajedrez
-Realice un programa que genere el siguiente resultado en pantalla
+Realice un programa que genere el tablero de ajedrez en consola usando instrucciones de repetición.
 ```
-| N | B | N | B | N | B | N | B |
 | B | N | B | N | B | N | B | N |
 | N | B | N | B | N | B | N | B |
 | B | N | B | N | B | N | B | N |
@@ -129,8 +128,10 @@ Realice un programa que genere el siguiente resultado en pantalla
 | B | N | B | N | B | N | B | N |
 | N | B | N | B | N | B | N | B |
 | B | N | B | N | B | N | B | N |
+| N | B | N | B | N | B | N | B |
 ```
 donde **N** representa al cuadro negro y **B** representa al cuadro blanco.
+![Tablero de ajedrez](https://img.freepik.com/vector-premium/tablero-ajedrez-piezas-ajedrez_81894-1481.jpg)
 
 ## Ejercicio 21
 Realizar un programa que permita hacer la siguiente conversión:
@@ -144,3 +145,25 @@ Considera que
 ## Ejercicio 22 - Piedra, Papel y Tijera
 Realizar un programa que permita controlar el juego de piedra, papel, tijera  introduciendo P para piedra, L para papel y T para tijera por cada jugador.  
 El sistema debe indicar qué jugador gana la ronda o si hay empate. Al final de cada ronda preguntar si desea volver a jugar.
+
+## Ejercicio 23 - Imprimir diamante - Version 2
+Realizar un programa que imprima un diamante usando caracteres de texto. El programa debe pedir al usuario el tamaño del diamante, el cual debe ser un número entero positivo impar. 
+Ej:
+- Si tamaño es: 3
+    ```
+     *
+    ***
+     *
+    ```
+- Si tamaño es: 7
+    ```
+       *
+      ***
+     *****
+    *******
+     *****
+      ***
+       *
+    ```
+Ten en cuenta que la linea de asteriscos (*) de la fila central es la mas grande y debe estar alineada a la parte izquierda de la pantalla y debe tener del tamaño del número dado. El resto de las lineas deben quedar los asteriscos centrados teniendo como base la linea central.
+En caso de que el número ingresado no sea válido, se le debe informar el usuario el caso que no está cumpliendo.

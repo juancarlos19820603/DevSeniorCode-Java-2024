@@ -10,7 +10,8 @@
     - Operadores lógicos o booleanos
     - Precedencia de operadores
   - Estructuras de control
-    - Estructura `if - then - else`
+    - Estructura `if - else`
+    - Operador ternario `if - else` `?  :`
     - Estructura `switch`
     - Expresiones `switch`
   - Estructuras de repetición (ciclos)
